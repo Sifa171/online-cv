@@ -3,27 +3,27 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Sebastian Dehn
+    tagline: Solution Architect
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: sebastian.dehn@sifa-solutions.de
+    phone: +49 174 20 66 896
+    timezone: 
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website: devsecops-workshop.github.io
+    linkedin: sdehn
+    xing: 
+    github: sifa171
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@sifa171'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -32,190 +32,115 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: German
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
+        - idiom: English
           level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Sim Racing
+          link: https://sifa-racing.de
+
+        - item: Karting
           link:
 
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
-          link:
+        - item: Leo-Club
+          link: https://leo-clubs.de
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Tech sales expert with almost 10 years of experience in the IT industry and a deep technical understanding 
+      of emerging technologies in several enterprises. 
+      Adept at business development and seeking new opportunities from a wide range of clients. 
+      Skilled in assessing client drive and implementing programs that best foster that drive.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - degree: Apprenticeship as IT specialist for application development
+        university: SAG GmbH
+        time: Aug. 2012 - Jan. 2015
+        details: 
+      - degree: Computer science, Bacherlor of science (B.Sc.)
+        university: Westfaelische Hochschule
+        time: Sep. 2011 - Jul. 2012
+        details: incomplete
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Account Solution Architect in Commercial
+        time: Jan. 2023 - Present
+        company: Red Hat GmbH, Germany
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          - driving business in Red Hat's commercial segment in Germany
+          - identifying strategic accounts in commercial to grow Red Hat's business
+          - presenting Red Hat's emerging technologies to potential customers
+          - revenue responsibility: €148+ million p.a.
+      - role: Solution Architect Partner Enablement
+        time: Dec. 2019 - Dec. 2022
+        company: Red Hat GmbH, Germany  
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          - Responsible for a hand full of technology partners in Germany
+          - Being a trusted advisor in all technical matters for Red Hat Partners in Germany
+          - Creating technical workshops for partners to enable them to work with Red Hat’s solutions
+          - Onboard new Red Hat technology partners
+          - Speaking on events presented by Red Hat or Red Hat’s technology partners 
+      - role: Consultant
+        time: Jan. 2018 - Nov. 2019
+        company: Red Hat GmbH, Germany 
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+          - Cloud Consultant / OpenShift Consultant at T-Systems Germany from January 2018 to July 2018
+          - Cloud Consultant / OpenShift Consultant at Daimler AG from July 2018 to December 2019
+          - Cloud Consultant / OpenShift Consultant at Schwarz IT from July 2018 to December 2019
+      - role: Consultant & Developer
+        time: Oct. 2015 - Dec. 2017
+        company: Viada GmbH 
+        details: |
+          - Cloud Consultant / OpenShift Consultant at T-Systems Germany from July 2016 to December 2017
+          - On loan to Red Hat Germany, as a Solution Architect Middleware from January 2016 to June 30, 2016
+          - Developed a JEE Web-Application for a travel care customer based on JBoss Middleware
+      - role: Web Developer
+        time: Jan. 2015 - Sep. 2015
+        company: SAG GmbH 
+        details: |
+          - Planed and built a Java framework for a couple of customer projects
+          - Developed a web based Asset-Management System with Java GWT
+          - Responsible for database parameterisation
+      - role: Student employee
+        time: Sep. 2011 - Aug. 2012
+        company: SAG GmbH 
+        details: |
+          - Developed a web based Asset-Management System with Java and ExtJs
+          - Responsible for database parameterisation
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: OpenShift & Kubernetes
+        level: 100%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Ansible
+        level: 100%
 
-      - name: Angular
-        level: 98%
+      - name: Linux
+        level: 100%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Python
+        level: 80%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Salesforce
+        level: 100%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: DevOps
+        level: 100%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: DevSecOps
+        level: 100%
+  
+      - name: GitOps
+        level: 100%
+
