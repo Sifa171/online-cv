@@ -141,8 +141,11 @@ skills:
       - name: Python
         level: 80%
 
-      - name: Salesforce
-        level: 100%
+      - name: NodeJS
+        level: 80%
+
+      - name: Java
+        level: 70%
 
       - name: DevOps
         level: 100%
@@ -152,4 +155,12 @@ skills:
   
       - name: GitOps
         level: 100%
+        
+      - name: Salesforce
+        level: 100%
+        
+      - name: MEDDPICC
+        level: 100%
+        
+        
 
